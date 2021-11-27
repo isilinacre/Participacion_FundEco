@@ -21,81 +21,152 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Semana 1 - Introducción
 
 Objetivos de aprendizaje relacionados y por qué (detalle relaciones de contenidos con los objetivos de aprendizaje definidos en el Syllabus)
---> El objetivo de esta semana fue identificar conceptos básicos de economía para identificar mecanismos de asignación de recursos. Este objetivo se relaciona con el tema tratado que fue la introducción al curso. Se habló de que se debe definir un objeto escaso, dado que sin escasez no hay economía. Se puede tratar a la escasez como un concepto básico, dado que la sociedad tiene recursos limitados, y es por esto que no se pueden producir todos los bienes y servicios que las personas desean tener. Dada esta definición, se pudo introducir el concepto de economía, ciencia no exacta que estudia el modo de asignar recursos escasos a diferentes necesidades. Además, la economía presenta diferentes niveles como micro (individuo, familia, empresa) y macro (territorios, paises, continentes). Cabe señalar que, la economía utiliza mecanismos de asignación de recursos de modo descentralizado (mercado), centralizado (Estado) y de manera mixta. Por otro lado, este estudio se lleva a cabo bajo diez principios fundamentales de la economía, los cuales se enfocan en cómo las personas toman decisiones, cómo estas personas interactúan y cómo funciona la economía en su conjunto.
+--> El objetivo de esta semana fue identificar conceptos básicos de economía para identificar mecanismos de
+asignación de recursos. Este objetivo se relaciona con el tema tratado que fue la introducción al curso. Se
+habló de que se debe definir un objeto escaso, dado que sin escasez no hay economía. Se puede tratar a la
+escasez como un concepto básico, dado que la sociedad tiene recursos limitados, y es por esto que no se pueden
+producir todos los bienes y servicios que las personas desean tener. Dada esta definición, se pudo introducir el
+concepto de economía, ciencia no exacta que estudia el modo de asignar recursos escasos a diferentes necesidade
+s. Además, la economía presenta diferentes niveles como micro (individuo, familia, empresa) y macro (territorios
+, paises, continentes). Cabe señalar que, la economía utiliza mecanismos de asignación de recursos de modo
+descentralizado (mercado), centralizado (Estado) y de manera mixta. Por otro lado, este estudio se lleva a cabo
+bajo diez principios fundamentales de la economía, los cuales se enfocan en cómo las personas toman decisiones,
+cómo estas personas interactúan y cómo funciona la economía en su conjunto.
 
 Describa conocimientos previos en realación al tema
---> Mi conocimiento previo al tema, principalmente, fue saber que mediante el estudio de la economía se puede trabajar la asignación de recursos, dado que estos son escasos. También, tenía el conocimiento de que la economía tiene estos niveles en los cuales se divide que es micro y macroeconomía.
+--> Mi conocimiento previo al tema, principalmente, fue saber que mediante el estudio de la economía se puede
+trabajar la asignación de recursos, dado que estos son escasos. También, tenía el conocimiento de que la
+economía tiene estos niveles en los cuales se divide que es micro y macroeconomía.
 
 ¿Qué contenido tiene un impacto en mi cotidianeidad y cómo puedo utilizarlo para mejorarla?
---> El hecho de que los recursos en el día a día sean de caracter escasos, hacen que uno como individuo piense en las finanzas personales, tales como ahorros, de modo de poder maximizar el beneficio de los recursos que uno posee para poder satisfacer nuestras necesidades. Dado esto, el estudio de la economía es fundamental debido a que se debe conocer cómo administrar los recursos, sobre todo personales, ya que sin esto, no podríamos tomar decisiones como individuos, y por tanto, la sociedad no podría desarrollarse correctamente produciendo un desequilibrio económico. 
+--> El hecho de que los recursos en el día a día sean de caracter escasos, hacen que uno como individuo piense
+en las finanzas personales, tales como ahorros, de modo de poder maximizar el beneficio de los recursos que uno
+posee para poder satisfacer nuestras necesidades. Dado esto, el estudio de la economía es fundamental debido a
+que se debe conocer cómo administrar los recursos, sobre todo personales, ya que sin esto, no podríamos tomar
+decisiones como individuos, y por tanto, la sociedad no podría desarrollarse correctamente produciendo un
+desequilibrio económico. 
 
 ¿Cuál es la relevancia que tienen los contenidos respecto de mi formación como ingeniero?
---> La relevancia del estudio de la economía en mi formación como ingeniera es sumamente importante, dado que independiente de no estar relacionada directamente con el ámbito económico, este se ve en todos los sectores laborales. Dado esto, es importante tanto para poder conocer cómo administrar recursos, en mi caso de construcción, como poder relacionar variables tanto micro y macroeconómicas de modo de encontrar un equilibrio en la empresa en caso de pedir materiales, vender lo que sobra, por ejemplo. También, tener el conocimiento de recursos limitados, ya que en mi ámbito es sumamente importante, dado que se eso se forma el sector de construcción, de la utilización de materiales para llevar a cabo las obras. Se analizan situaciones de la vida real y se buscan soluciones para cualquier tipo de problema que se presente en el ámbito económico. 
+--> La relevancia del estudio de la economía en mi formación como ingeniera es sumamente importante, dado que
+independiente de no estar relacionada directamente con el ámbito económico, este se ve en todos los sectores
+laborales. Dado esto, es importante tanto para poder conocer cómo administrar recursos, en mi caso de
+construcción, como poder relacionar variables tanto micro y macroeconómicas de modo de encontrar un equilibrio
+en la empresa en caso de pedir materiales, vender lo que sobra, por ejemplo. También, tener el conocimiento de
+recursos limitados, ya que en mi ámbito es sumamente importante, dado que se eso se forma el sector de
+construcción, de la utilización de materiales para llevar a cabo las obras. Se analizan situaciones de la vida
+real y se buscan soluciones para cualquier tipo de problema que se presente en el ámbito económico. 
 
 Si hubo trabajo grupal: ¿En qué me sirvió el trabajo grupal?
---> Esta semana no hubo trabajo grupal, ya que fue la primera semana de clases. Sin embargo, hubo una tarea la cual me ayudó a plantear mis expectativas del curso. 
+--> Esta semana no hubo trabajo grupal, ya que fue la primera semana de clases. Sin embargo, hubo una tarea la
+cual me ayudó a plantear mis expectativas del curso. 
 
 ¿Qué debo ser capaz de hacer para mostrar que domino los conceptos?
---> Para mostrar que domino conceptos, debo ser capaz de definir los conceptos de economía, escasez, coste de oportunidad, microeconomía, macroeconomía, y poder relacionar los diez principios de la economía entre ellos. 
-
+--> Para mostrar que domino conceptos, debo ser capaz de definir los conceptos de economía, escasez, coste de
+oportunidad, microeconomía, macroeconomía, y poder relacionar los diez principios de la economía entre ellos. 
 
 
 
 ## Semana 2 - Frontera de posibilidades de producción (FPP)
 
 Objetivos de aprendizaje relacionados y por qué (detalle relaciones de contenidos con los objetivos de aprendizaje definidos en el Syllabus)
---> El objetivo de esta semana fue interpretar datos para enunciar potenciales relaciones entre variables, además de describir y simular modelos económicos para establecer la dinámica de relaciones entre variables. Estos objetivos se relacionan con el planteamiento de los dos principales modelos económicos vistos: diagrama de flujo circular y la frontera de posibilidades de producción. Por una lado, el primer modelo enunciado tiene como función mostrar como fluye el dinero a través de los mercados entre las empresas y hogares. En cambio, la frontera de posibilidades de producción es un gráfico que permite ver las diferentes combinaciones de productos que puede producir la economía dados los diferentes factores de producción y tecnología existente. Ambos modelos permiten ser modelados, de manera de poder relacionar variables e interpretarlas en su conjunto. El modelo más utilizado la FPP, la cual muestra qué tan alcanzable y eficientes son los diferentes puntos de interés. Además, se pudo introducir el concepto de coste de oportunidad gráficamente, ya que la FPP muestra el costo de una variable y a lo que se tiene que renunciar para conseguirla en función de la otra variable estudiada. Finalmente, se estudió el uso del lenguaje del economista, haciendo énfasis en las afirmaciones positivas, afirmaciones que decriben la realidad tal y como es, y las afirmaciones normativas, aformaciones que describen cómo debería ser la realidad. 
+--> El objetivo de esta semana fue interpretar datos para enunciar potenciales relaciones entre variables,
+además de describir y simular modelos económicos para establecer la dinámica de relaciones entre variables.
+Estos objetivos se relacionan con el planteamiento de los dos principales modelos económicos vistos: diagrama de
+flujo circular y la frontera de posibilidades de producción. Por una lado, el primer modelo enunciado tiene como
+función mostrar como fluye el dinero a través de los mercados entre las empresas y hogares. En cambio, la
+frontera de posibilidades de producción es un gráfico que permite ver las diferentes combinaciones de productos
+que puede producir la economía dados los diferentes factores de producción y tecnología existente. Ambos modelos
+permiten ser modelados, de manera de poder relacionar variables e interpretarlas en su conjunto. El modelo más
+utilizado la FPP, la cual muestra qué tan alcanzable y eficientes son los diferentes puntos de interés. Además,
+se pudo introducir el concepto de coste de oportunidad gráficamente, ya que la FPP muestra el costo de una
+variable y a lo que se tiene que renunciar para conseguirla en función de la otra variable estudiada. Finalmente
+, se estudió el uso del lenguaje del economista, haciendo énfasis en las afirmaciones positivas, afirmaciones
+que decriben la realidad tal y como es, y las afirmaciones normativas, aformaciones que describen cómo debería
+ser la realidad. 
 
 Describa conocimientos previos en realación al tema
---> Mi único conocimiento previo de este es la frontera de posibilidades de producción. Conocía que esta relacionaba variables y que su pendiente podía ser calculada como el coste de oportunidad. 
+--> Mi único conocimiento previo de este es la frontera de posibilidades de producción. Conocía que esta
+relacionaba variables y que su pendiente podía ser calculada como el coste de oportunidad. 
 
 ¿Qué contenido tiene un impacto en mi cotidianeidad y cómo puedo utilizarlo para mejorarla?
---> Este tema es importante cotidianamente, dado que si quiero relacionar dos variables que sean de interés para mi, puedo simular este modelo de manera de poder conocer cual es el coste de oportunidad, es decir, a qué debo renunciar para conseguir más de mi otra variable de interés. Puedo utilizar el modelo de la FPP para conocer qué tan eficientes son las combinaciones de recursos que poseo para lograr lo que me interesa analizar, y de esta manera poder mejorar y/o cambiar estas combinaciones en caso de que no sean eficientes.
+--> Este tema es importante cotidianamente, dado que si quiero relacionar dos variables que sean de interés para
+mi, puedo simular este modelo de manera de poder conocer cual es el coste de oportunidad, es decir, a qué debo
+renunciar para conseguir más de mi otra variable de interés. Puedo utilizar el modelo de la FPP para conocer qué
+tan eficientes son las combinaciones de recursos que poseo para lograr lo que me interesa analizar, y de esta
+manera poder mejorar y/o cambiar estas combinaciones en caso de que no sean eficientes.
 
 ¿Cuál es la relevancia que tienen los contenidos respecto de mi formación como ingeniero?
---> Los contenidos son relevantes dado que en la vida real las economías producen más de un bien, y dado que los recursos son limitados, la asignación de recursos para la producción de otro bien significa dejar de asignar recursos sacrificando unidades de producción. Esto es relevante en mi formación, ya que si alguna vez debo asignar recursos, debo conocer cómo asignar los recursos de manera que pueda maximizar el valor de la producción. Por lo tanto, este modelo es importante, ya que permite conocer la asignación de recursos, por ejemplo en mi caso, recursos para construir una estructura, y a qué recursos puedo renunciar para maximizar mis beneficios.
+--> Los contenidos son relevantes dado que en la vida real las economías producen más de un bien, y dado que los
+recursos son limitados, la asignación de recursos para la producción de otro bien significa dejar de asignar
+recursos sacrificando unidades de producción. Esto es relevante en mi formación, ya que si alguna vez debo
+asignar recursos, debo conocer cómo asignar los recursos de manera que pueda maximizar el valor de la producción
+. Por lo tanto, este modelo es importante, ya que permite conocer la asignación de recursos, por ejemplo en mi
+caso, recursos para construir una estructura, y a qué recursos puedo renunciar para maximizar mis beneficios.
 
 Si hubo trabajo grupal: ¿En qué me sirvió el trabajo grupal?
---> Principalmente para conocer a mis compañeras de trabajo, y también poder definir un sector económico en el cual nos enfocaríamos durante todo el semeste. Me sirvió para poder averiguar sobre variables económicas en las cuales enfocarnos y aprender en cómo relacionar estas variables para poder plantear los trabajos siguientes.
+--> Principalmente para conocer a mis compañeras de trabajo, y también poder definir un sector económico en el
+cual nos enfocaríamos durante todo el semeste. Me sirvió para poder averiguar sobre variables económicas en las
+cuales enfocarnos y aprender en cómo relacionar estas variables para poder plantear los trabajos siguientes.
 
 ¿Qué debo ser capaz de hacer para mostrar que domino los conceptos?
---> Para mostrar que domino conceptos, debo ser capaz de definir los conceptos de escasez, coste de oportunidad, eficiencia, disyuntivas, crecimiento económico y el modelo de la frontera de posibilidad de producción en sí. 
+--> Para mostrar que domino conceptos, debo ser capaz de definir los conceptos de escasez, coste de oportunidad,
+eficiencia, disyuntivas, crecimiento económico y el modelo de la frontera de posibilidad de producción en sí. 
 
 
 
-
-## Semana 5 - Equilibrio de Mercado, Estática Comparativa.
+## Semana 5 - Equilibrio de Mercado, Estática Comparativa
 
 Objetivos de aprendizaje relacionados y por qué (detalle relaciones de contenidos con los objetivos de aprendizaje definidos en el Syllabus)
---> Los objetivos de aprendizaje relacionados con esta semana fueron, describir y simular modelos económicos para establecer la dinámica de relaciones entre variables, dado que el equilibrio se da entre la oferta y la demanda, y poder identificar  problemáticas  económicas  para  establecer  planes  contingentes  a  todo  sector productivo. Los temas tratados fueron, por un lado, el equilibrio de mercado es la situación en que el precio ha llegado al nivel en el cual la cantidad ofrecida equivale a la cantidad demandada. Dado esto, se tuvieron que utilizar las relaciones entre variables de precio y cantidad para definir tanto la curva de oferta como de demanda y de esta manera poder establecer el punto de equilibrio, asociado a un precio y una cantidad de equilibrio. Por otro lado, la estática comparativa, como lo dice su nombre, es la comparación entre dos puntos de equilibrio cuando hay una pertubación en la oferta, en la demanda o en ambas. Este tema se asocia con el objetivo de poder identificar problemáticas económicas, dado que si se hace un análisis de los cambios en el equilibrio, se pueden estudiar los cambios en las curvas, como por ejemplo si una variable aumenta o disminuye, cómo afecta esto en las curvas, es decir, si estas se desplazan o si es que hay solo cambios en las cantidades.
-
+--> Los objetivos de aprendizaje relacionados con esta semana fueron, describir y simular modelos económicos
+para establecer la dinámica de relaciones entre variables, dado que el equilibrio se da entre la oferta y la
+demanda, y poder identificar  problemáticas  económicas  para  establecer  planes  contingentes  a  todo  sector
+productivo. Los temas tratados fueron, por un lado, el equilibrio de mercado es la situación en que el precio ha
+llegado al nivel en el cual la cantidad ofrecida equivale a la cantidad demandada. Dado esto, se tuvieron que
+utilizar las relaciones entre variables de precio y cantidad para definir tanto la curva de oferta como de
+demanda y de esta manera poder establecer el punto de equilibrio, asociado a un precio y una cantidad de
+equilibrio. Por otro lado, la estática comparativa, como lo dice su nombre, es la comparación entre dos puntos
+de equilibrio cuando hay una pertubación en la oferta, en la demanda o en ambas. Este tema se asocia con el
+objetivo de poder identificar problemáticas económicas, dado que si se hace un análisis de los cambios en el
+equilibrio, se pueden estudiar los cambios en las curvas, como por ejemplo si una variable aumenta o disminuye,
+cómo afecta esto en las curvas, es decir, si estas se desplazan o si es que hay solo cambios en las cantidades.
 
 Describa conocimientos previos en realación al tema
---> Mi conocimiento previo a este tema está únicamente relacionado al equilibrio de mercado, ya que, tenía el conocimiento que al haber equilibrio, la curva de oferta y la curva de demanda se intersectaban. 
-
+--> Mi conocimiento previo a este tema está únicamente relacionado al equilibrio de mercado, ya que, tenía el
+conocimiento que al haber equilibrio, la curva de oferta y la curva de demanda se intersectaban. 
 
 ¿Qué contenido tiene un impacto en mi cotidianeidad y cómo puedo utilizarlo para mejorarla?
---> Ambos contenidos tienen un impacto en el día a día, tanto el equilibrio de mercado como la estática comparativa, ya que, si es que no hubiese equilibrio de mercado, no podría establecer una relación entre la oferta y demanda imposibilitando plantear la una comparación entre dos puntos de equilibrio. 
-
-Al yo ser agenet de un mercado 
-En mi dia a dia puedo reflexionar siendo parte del mercado, dandome cuenta de las cosas que ocurren, dado que si sube el precio la ca
-el punto de equilibrio me sirve para analizar y comprender los comportamientos del mercado y mi rol en la participacion dentro de este como agente economico 
-Analizar las situaciones y tomar decisiones frente a los cambios del equilibrio de mercado 
-
+--> Ambos contenidos tienen un impacto en el día a día, tanto el equilibrio de mercado como la estática
+comparativa, ya que, si es que no hubiese equilibrio de mercado, no podría establecer una relación entre la
+oferta y demanda imposibilitando plantear la una comparación entre dos puntos de equilibrio. Por otro lado, al
+yo ser parte del mercado como un agente de este, día a día puedo reflexionar sobre este, dando cuenta de los
+cambios y cosas que ocurren, ya sea cuando sube o baja un precio, cuando se demanda más o menos de un bien o
+servicio, permitiéndome el poder analizar y estudiar el punto de equilibrio para comprender el comportamiento de
+un cierto mercado, como por ejemplo, la venta de departamentos, pudiendo yo tener un rol de participación dentro
+de este como agente que compra o vende, pudiendo tomar decisiones frente a los cambios del equilibrio. 
 
 ¿Cuál es la relevancia que tienen los contenidos respecto de mi formación como ingeniero?
---> Tanto el equilibrio de mercado como la comparación entre equilibrios (estática comparativa) son relevantes en mi formación, ya que si no se diese esta relación no podría comparar diferentes situaciones que relacionen el precio con diferentes cantidades tanto ofrecidas como demandadas. Por lo que, para poder llevar a cabo proyectos en mi rubro, ya sea conseguir materiales o maquinarias, se debe tener una relación entre los precios y las cantidades para poder conocer cuál es el equilibrio entre lo que demando y lo que se me ofrece, con el fin de poder tener un precio establecido a la situación estudiada. Como ingeniera, necesito analizar situaciones reales, tanto de oferta como de demanda concretas para poder entregar soluciones reales a los problemas economicos que se me puedan presentar en una obra. 
-
+--> Tanto el equilibrio de mercado como la comparación entre equilibrios (estática comparativa) son relevantes
+en mi formación, ya que si no se diese esta relación no podría comparar diferentes situaciones que relacionen el
+precio con diferentes cantidades tanto ofrecidas como demandadas. Por lo que, para poder llevar a cabo proyectos
+en mi rubro, ya sea conseguir materiales o maquinarias, se debe tener una relación entre los precios y las
+cantidades para poder conocer cuál es el equilibrio entre lo que demando y lo que se me ofrece, con el fin de
+poder tener un precio establecido a la situación estudiada. Como ingeniera, necesito analizar situaciones reales
+, tanto de oferta como de demanda concretas para poder entregar soluciones reales a los problemas economicos que
+se me puedan presentar en una obra. 
 
 Si hubo trabajo grupal: ¿En qué me sirvió el trabajo grupal?
---> Esta semana se trabajó en la segunda tarea, en la cual se tuvo que hacer la frontera de posibilidades de producción, el equilibrio de mercado y analizar costos. Me sirvió el trabajo para poder entender cómo llevar a cabo las diferentes curvas por medio de diversos softwares (Python y Excel), y entender cómo se arman las curvas por medio de las variables que uno elige estudiar. 
-
+--> Esta semana se trabajó en la segunda tarea, en la cual se tuvo que hacer la frontera de posibilidades de
+producción, el equilibrio de mercado y analizar costos. Me sirvió el trabajo para poder entender cómo llevar a
+cabo las diferentes curvas por medio de diversos softwares (Python y Excel), y entender cómo se arman las curvas
+por medio de las variables que uno elige estudiar. 
 
 ¿Qué debo ser capaz de hacer para mostrar que domino los conceptos?
---> Para mostrar que domino conceptos, debo ser capaz de definir los conceptos de curva de demanda, curva de oferta, cantidad y precio de equilibrio, cantidad demanda y ofrecida, ley de demanda y oferta.
+--> Para mostrar que domino conceptos, debo ser capaz de definir los conceptos de curva de demanda, curva de
+oferta, cantidad y precio de equilibrio, cantidad demanda y ofrecida, ley de demanda y oferta.
 
 
-## Semana 6
+
+## Semana 6 - Elasticidad, Excedentes 
 
 Objetivos de aprendizaje relacionados y por qué (detalle relaciones de contenidos con los objetivos de aprendizaje definidos en el Syllabus)
 --> Relacionar con objetivos 
