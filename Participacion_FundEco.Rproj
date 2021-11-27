@@ -10,17 +10,20 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ## OBJETIVOS POSIBLES
-(RA1) Identificar conceptos básicos de economía para identificar mecanismos de asignación de recursos 
-(RA2) Interpretar datos para enunciar potenciales relaciones entre variables 
-(RA3) Describir y simular modelos económicos para establecer la dinámica de relaciones entre variables
-(RA4) Identificar  problemáticas  económicas  para  establecer  planes  contingentes  a  todo  sector productivo
-(RA5) Identificar problemas de ingeniería para ser resueltos con teoría económica
-(RA6) Identificar y utilizar técnicas modernas de ingeniería para la resolución eficaz de problemas de asignación de recursos
+(RA1) Identificar conceptos básicos de economía para identificar mecanismos de asignación de recursos.
+(RA2) Interpretar datos para enunciar potenciales relaciones entre variables.
+(RA3) Describir y simular modelos económicos para establecer la dinámica de relaciones entre variables.
+(RA4) Identificar  problemáticas  económicas  para  establecer  planes  contingentes  a  todo  sector 
+productivo.
+(RA5) Identificar problemas de ingeniería para ser resueltos con teoría económica.
+(RA6) Identificar y utilizar técnicas modernas de ingeniería para la resolución eficaz de problemas de
+asignación de recursos.
 
 
 ## Semana 1 - Introducción
 
-Objetivos de aprendizaje relacionados y por qué (detalle relaciones de contenidos con los objetivos de aprendizaje definidos en el Syllabus)
+Objetivos de aprendizaje relacionados y por qué (detalle relaciones de contenidos con los objetivos de
+aprendizaje definidos en el Syllabus)
 --> El objetivo de esta semana fue identificar conceptos básicos de economía para identificar mecanismos de
 asignación de recursos. Este objetivo se relaciona con el tema tratado que fue la introducción al curso. Se
 habló de que se debe definir un objeto escaso, dado que sin escasez no hay economía. Se puede tratar a la
@@ -33,7 +36,7 @@ descentralizado (mercado), centralizado (Estado) y de manera mixta. Por otro lad
 bajo diez principios fundamentales de la economía, los cuales se enfocan en cómo las personas toman decisiones,
 cómo estas personas interactúan y cómo funciona la economía en su conjunto.
 
-Describa conocimientos previos en realación al tema
+Describa conocimientos previos en relación al tema
 --> Mi conocimiento previo al tema, principalmente, fue saber que mediante el estudio de la economía se puede
 trabajar la asignación de recursos, dado que estos son escasos. También, tenía el conocimiento de que la
 economía tiene estos niveles en los cuales se divide que es micro y macroeconomía.
@@ -68,7 +71,8 @@ oportunidad, microeconomía, macroeconomía, y poder relacionar los diez princip
 
 ## Semana 2 - Frontera de posibilidades de producción (FPP)
 
-Objetivos de aprendizaje relacionados y por qué (detalle relaciones de contenidos con los objetivos de aprendizaje definidos en el Syllabus)
+Objetivos de aprendizaje relacionados y por qué (detalle relaciones de contenidos con los objetivos de
+aprendizaje definidos en el Syllabus)
 --> El objetivo de esta semana fue interpretar datos para enunciar potenciales relaciones entre variables,
 además de describir y simular modelos económicos para establecer la dinámica de relaciones entre variables.
 Estos objetivos se relacionan con el planteamiento de los dos principales modelos económicos vistos: diagrama de
@@ -84,7 +88,7 @@ variable y a lo que se tiene que renunciar para conseguirla en función de la ot
 que decriben la realidad tal y como es, y las afirmaciones normativas, aformaciones que describen cómo debería
 ser la realidad. 
 
-Describa conocimientos previos en realación al tema
+Describa conocimientos previos en relación al tema
 --> Mi único conocimiento previo de este es la frontera de posibilidades de producción. Conocía que esta
 relacionaba variables y que su pendiente podía ser calculada como el coste de oportunidad. 
 
@@ -116,21 +120,24 @@ eficiencia, disyuntivas, crecimiento económico y el modelo de la frontera de po
 
 ## Semana 5 - Equilibrio de Mercado, Estática Comparativa
 
-Objetivos de aprendizaje relacionados y por qué (detalle relaciones de contenidos con los objetivos de aprendizaje definidos en el Syllabus)
+Objetivos de aprendizaje relacionados y por qué (detalle relaciones de contenidos con los objetivos de
+aprendizaje definidos en el Syllabus)
 --> Los objetivos de aprendizaje relacionados con esta semana fueron, describir y simular modelos económicos
 para establecer la dinámica de relaciones entre variables, dado que el equilibrio se da entre la oferta y la
 demanda, y poder identificar  problemáticas  económicas  para  establecer  planes  contingentes  a  todo  sector
 productivo. Los temas tratados fueron, por un lado, el equilibrio de mercado es la situación en que el precio ha
-llegado al nivel en el cual la cantidad ofrecida equivale a la cantidad demandada. Dado esto, se tuvieron que
-utilizar las relaciones entre variables de precio y cantidad para definir tanto la curva de oferta como de
-demanda y de esta manera poder establecer el punto de equilibrio, asociado a un precio y una cantidad de
-equilibrio. Por otro lado, la estática comparativa, como lo dice su nombre, es la comparación entre dos puntos
-de equilibrio cuando hay una pertubación en la oferta, en la demanda o en ambas. Este tema se asocia con el
-objetivo de poder identificar problemáticas económicas, dado que si se hace un análisis de los cambios en el
-equilibrio, se pueden estudiar los cambios en las curvas, como por ejemplo si una variable aumenta o disminuye,
-cómo afecta esto en las curvas, es decir, si estas se desplazan o si es que hay solo cambios en las cantidades.
+llegado al nivel en el cual la cantidad ofrecida equivale a la cantidad demandada. El equilibrio es fundamental
+en la economía, dado que si existe un equilibrio entre la oferta y demanda en un mercado, se maximizan los
+beneficios totales que obtienen tanto los compradores como los vendedores. Dado esto, se tuvieron que utilizar
+las relaciones entre variables de precio y cantidad para definir tanto la curva de oferta como de demanda y de
+esta manera poder establecer el punto de equilibrio, asociado a un precio y una cantidad de equilibrio. 
+Por otro lado, la estática comparativa, como lo dice su nombre, es la comparación entre dos puntos de equilibrio
+cuando hay una pertubación en la oferta, en la demanda o en ambas. Este tema se asocia con el objetivo de poder
+identificar problemáticas económicas, dado que si se hace un análisis de los cambios en el equilibrio, se pueden
+estudiar los cambios en las curvas, como por ejemplo si una variable aumenta o disminuye, cómo afecta esto en
+las curvas, es decir, si estas se desplazan o si es que hay solo cambios en las cantidades.
 
-Describa conocimientos previos en realación al tema
+Describa conocimientos previos en relación al tema
 --> Mi conocimiento previo a este tema está únicamente relacionado al equilibrio de mercado, ya que, tenía el
 conocimiento que al haber equilibrio, la curva de oferta y la curva de demanda se intersectaban. 
 
@@ -168,12 +175,33 @@ oferta, cantidad y precio de equilibrio, cantidad demanda y ofrecida, ley de dem
 
 ## Semana 6 - Elasticidad, Excedentes 
 
-Objetivos de aprendizaje relacionados y por qué (detalle relaciones de contenidos con los objetivos de aprendizaje definidos en el Syllabus)
---> Relacionar con objetivos 
-(RA3) Describir y simular modelos económicos para establecer la dinámica de relaciones entre variables
-(RA4) Identificar  problemáticas  económicas  para  establecer  planes  contingentes  a  todo  sector productivo
+Objetivos de aprendizaje relacionados y por qué (detalle relaciones de contenidos con los objetivos de
+aprendizaje definidos en el Syllabus)
 
-Describa conocimientos previos en realación al tema
+--> El tema tratado de esta semana fue la elasticidad y los excedentes, tanto del consumidor como del productor.
+Se definió la elasticidad como la medida del grado en que responden los compradores y vendedores a la situación
+del mercado, permitiendo analizar con mayor precisión la oferta y la demanda. Es decir, la elasticidad mide cómo
+la cantidad ofrecida o demandada responde a la variación del precio, anticipando su comportamiendo ante una
+posible variación. Esta es una medida importante, dado que permite cumplir con el primer objetivo que poder
+identificar  problemáticas  económicas  para  establecer  planes contingentes  a  todo  sector productivo. Este
+tema se relaciona con el objetivo, dado que, por ejemplo, si es que por alguna razón durante los próximos años
+se estima un aumento de precios de un determinado sector, las entidades responsables pueden bajar los impuestos
+para poder incentivar a los consumidores para que sigan consumiendo. También, se conversaron algunas reglas
+generales de la elasticidad, que es cuando se tiene una demanda u oferta ineslástica, elástica o unitaria. 
+Por otro lado, también se conversó de los excedentes, los cuales derivan del estudio de la economía del
+bienestar. Esta última se define como el estudio de la influencia de la asignación de los recursos en el
+bienestar económico. Los excedentes se  dividen en dos tipos. El primero es el excedente del consumidor, el cual
+se define como la cantidad que un comprador está dispuesto a pagar por un bien menos la cantidad que realmente
+paga. Por otro lado, se define el excedente del productor, el cual es la cantidad que percibe un vendedor por un
+bien menos el costo de producir ese bien. Estos últimos conceptos se relacionan con el objetivo de poder
+describir y simular modelos económicos para establecer la dinámica de relaciones entre variables. 
+Esto es porque para poder establecer los excedentes dentro de un modelo económico, se deben simular las curvas
+de oferta y de demanda de modo de poner establecer el equilibrio entre el precio y la cantidad demandada
+y ofrecida. El excedente del consumidor se establece por sobre el precio de equilibrio, mientras que el 
+excedente del productor se sitúa bajo este valor.
+
+
+Describa conocimientos previos en relación al tema
 --> Conocimientos previos mios
 
 
@@ -200,7 +228,7 @@ Objetivos de aprendizaje relacionados y por qué (detalle relaciones de contenid
 --> Relacionar con objetivos 
 (RA4) Identificar  problemáticas  económicas  para  establecer  planes  contingentes  a  todo  sector productivo
 
-Describa conocimientos previos en realación al tema
+Describa conocimientos previos en relación al tema
 --> Conocimientos previos mios
 
 
@@ -228,7 +256,7 @@ Objetivos de aprendizaje relacionados y por qué (detalle relaciones de contenid
 (RA4) Identificar  problemáticas  económicas  para  establecer  planes  contingentes  a  todo  sector productivo
 (RA5) Identificar problemas de ingeniería para ser resueltos con teoría económica
 
-Describa conocimientos previos en realación al tema
+Describa conocimientos previos en relación al tema
 --> Conocimientos previos mios
 
 
