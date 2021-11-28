@@ -1,6 +1,6 @@
 ---
 title: "Participación Reflexiva"
-author: Isidora Línacre Arredndo
+author: Isidora Línacre Arredondo
 date: "202120: `r Sys.Date()`"
 output: pdf_document
 ---
