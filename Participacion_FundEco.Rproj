@@ -1,7 +1,7 @@
 ---
 title: "Participación Reflexiva"
-author: "Nombre"
-date: "202020: `r Sys.Date()`"
+author: Isidora Línacre Arredndo
+date: "202120: `r Sys.Date()`"
 output: pdf_document
 ---
 
@@ -200,12 +200,10 @@ de oferta y de demanda de modo de poner establecer el equilibrio entre el precio
 y ofrecida. El excedente del consumidor se establece por sobre el precio de equilibrio, mientras que el 
 excedente del productor se sitúa bajo este valor.
 
-
 Describa conocimientos previos en relación al tema
 --> Mis conocimientos previos de este tema fue saber que el excedente del consumidor se situa por sobre el 
 precio de equilibrio, mientras que el del productor se sitúa por debajo de este. Sin embargo, respecto al tema
 de elasticidad no tenía conocimientos previos. 
-
 
 ¿Qué contenido tiene un impacto en mi cotidianeidad y cómo puedo utilizarlo para mejorarla?
 --> La elasticidad de un bien, como se comentó anteriormente, mide cómo las diferentes cantidades que componen
@@ -217,7 +215,6 @@ la información que me entrega la elasticidad para anteponerme ante posibles cam
 puedan surgir, como el alza del precio de los departamentos, alza de los insumos básicos, y entender cómo 
 cambia la oferta y la demanda frente a las diferentes variaciones que pueden ocurrir.
 
-
 ¿Cuál es la relevancia que tienen los contenidos respecto de mi formación como ingeniero?
 --> Los contenidos son relevantes, debido a que mediante la elasticidad podría fundamentar diferentes 
 decisiones frente a las variaciones que se impongan en el mercado tanto para la oferta como la demanda. Por
@@ -226,12 +223,10 @@ de manera gráfica, como ingeniera podría utilizar estos conceptos para poder d
 eficiente los recursos que poseo. Es decir, poder asignar recursos de manera de maximizar el excedente total 
 que reciben los individuos de la sociedad a los que le prestaría servicios. 
 
-
 Si hubo trabajo grupal: ¿En qué me sirvió el trabajo grupal?
 --> Esta semana se siguió el trabajo enfocado en la segunda tarea, enfocada en la FPP y elasticidades. 
 Este trabajo me sirvió, relacionado con la semana, a aprender cómo graficar las elasticidades en Excel, y 
 qué variables se pueden relacionar para llevar a cabo la gráfica de estas. 
-
 
 ¿Qué debo ser capaz de hacer para mostrar que domino los conceptos?
 --> Para demostrar que domino los conceptos, debo ser capaz de poder explicar los conceptos de elasticidad,
@@ -265,17 +260,14 @@ ingresos son nulos. Dado esto, se pueden identificar problemas en el día a día
 ejemplo estableciendo bajas o alzas en los impuestos o diferentes factores reguladores, en diferentes sectores,
 para combatir los problemas económicos monetarios.
 
-
 Describa conocimientos previos en relación al tema
 --> Mis conocimientos previos al tema era saber qué era un impuesto. 
-
 
 ¿Qué contenido tiene un impacto en mi cotidianeidad y cómo puedo utilizarlo para mejorarla?
 --> Los impuestos y controles de precio tienen un impacto en mi día a día, ya que yo como agente económico 
 quien demanda bienes y servicios, me afectan a la hora de comprar un bien. Puedo utilizar el control de precios,
 por ejemplo, el precio máximo de una vivienda, para poder proyectar mis ahorros y obtener el bien que 
 necesito.
-
 
 ¿Cuál es la relevancia que tienen los contenidos respecto de mi formación como ingeniero?
 --> Los impuestos y el control de precios son relevantes en mi formación como ingeniero, ya que a pesar de 
@@ -287,13 +279,11 @@ para comprar. Por lo tanto, es importante saberlo, dado que el día de mañana m
 arrendar o comprar, tanto maquinarias o materales como una vivienda, por lo que es relevante tener el 
 conocimiento. 
 
-
 Si hubo trabajo grupal: ¿En qué me sirvió el trabajo grupal?
 --> Esta semana comenzamos la tercera tarea del curso, haciendo referencia a los excedentes, precios máximos, 
 precios mínimos, impuestos o subsidios, dentro de nuestro sector de interés. Este trabajo me sirvió para 
 aprender a modelar los impuestos y precios mínimos en el ámbito inmobiliario naciona, mediante la curva de 
 oferta y demanda de nuestro sector. 
-
 
 ¿Qué debo ser capaz de hacer para mostrar que domino los conceptos?
 --> Para mostrar que domino conceptos, debo ser capaz de definir los conceptos de impuesto, ingreso fiscal,
@@ -301,37 +291,55 @@ curva de Laffer, tasas impositivas, elasticidades, precio máximo, precio mínim
 
 
 
-## Semana 12
+## Semana 12 - Ingreso, PIB, IPC, Desempleo
 
-Objetivos de aprendizaje relacionados y por qué (detalle relaciones de contenidos con los objetivos de aprendizaje definidos en el Syllabus)
---> Relacionar con objetivos 
-(RA4) Identificar  problemáticas  económicas  para  establecer  planes  contingentes  a  todo  sector productivo
-(RA5) Identificar problemas de ingeniería para ser resueltos con teoría económica
+Objetivos de aprendizaje relacionados y por qué (detalle relaciones de contenidos con los objetivos de
+aprendizaje definidos en el Syllabus)
+--> Los objetivos relacionados con esta semana fueron poder identificar  problemáticas  económicas  para 
+establecer  planes  contingentes  a  todo  sector productivo e identificar problemas de ingeniería para ser
+resueltos con teoría económica. Esto se relaciona con los contenidos de la semana, los cuales fueron el PIB,
+definido como "el valor del mercado de todos los bienes y servicios finales producidos en un pais durante un
+determinado periodo de tiempo", y el IPC, se define como "un indicador del costo toal de los bienes y servicios
+comprados por un consumidor representativo". Este último se calcula mediante la fijación de una canasta, a cuyos
+contenidos se les fijan el precio con el fin de calcular el costo total de la canasta. Además, se habló del 
+desempleo, el cual se mide en tasa, calculado como el porcentaje de la población activa que está sin trabajo. 
+Estos contenidos se relacionan con los objetivos de la siguiente manera: cuando la economía crece, aumenta el
+dinero disponible, y ante el aumento de este, la economía reacciona mediante un alza generalizada de los precio.
+Dado esto, aparece el término de inflación, el cual es el incremento constante de los precios de bienes y 
+servicios. Al haber inflación, el ingreso del PIB disminuye, es decir, al aumentar constantemente los precios,
+la producción de bienes y servicios disminuye, dado que no es posible producir la misma cantidad a un mismo
+precio si es que este aumenta en un determinado periodo de tiempo. Esta es una problemática económica del día
+a día, a la cual se le debe plantear un plan de acción para combatir la inflación. Para esto, existe un 
+estadístico llamado "deflactor" el cual es un indicador del nivel de precios que se calcula dividiendo el 
+PIB nominal por el real, midiendo el nivel actual de precios en relación al año base. De ser este mayor, con 
+respecto al año anterior, se está en presencia de una inflación, la cual debe ser combatida mediante el alza
+de impuestos, de modo de contrarrestar el efecto de esta en los precios. Cabe señalar que, problemas de la 
+ingeniería como problemas de logística, transporte, finanzas, por ejemplo, deben ser resueltas mediante
+un pensamiento económico y heurístico, ya que por lo general, se desea maximizar el beneficio de los ingresos y
+poder encontrar soluciones aproximadas a los problemas de modo de minimizar los costos de operación.
 
 Describa conocimientos previos en relación al tema
---> Conocimientos previos mios
-
+--> Previamente, mis conocimientos previos estaban enfocados en conocer que era el desempleo y la inflación. 
 
 ¿Qué contenido tiene un impacto en mi cotidianeidad y cómo puedo utilizarlo para mejorarla?
---> Por qué es importante el tema en mi día a día
-
+--> El contenido que más tiene impacto es el tema de la inflación, ya que por esta los precios suben 
+constantemente, de modo de poder contrarrestar el efect que esta tiene en el día a día, como por ejemplo, la UF.
+Puedo utilizar este concepto de manera de comprender qué significa, y poder proyectar mis ahorros al 
+día de mañana, dadas las proyecciones realizadas por diferentes entidades económicas.
 
 ¿Cuál es la relevancia que tienen los contenidos respecto de mi formación como ingeniero?
---> Analizar situaciones concretas y poder encontrar soluciones reales
-
+--> La relevancia de los contenidos con respecto a mi formación, es que el día que ejerza como ingeniera, debo
+tener el conocimiento de qué significa el PIB, ya que este aporta en un 10%, aproximadamente, anualmente
+en el rubro que ejerceré el día de mañana, lo cual es construcción e inmobiliarias. A su vez, es sumamente 
+importante conocer el tema de la inflación, ya que debido a esto, se tendrán que optimizar modelos de manera
+que pueda maximizar el ingreso de los materiales y maquinarias, minimzando a su vez, los costos que estos pueden
+traerle a la empresa. 
 
 Si hubo trabajo grupal: ¿En qué me sirvió el trabajo grupal?
---> Elegir semanas que tengan tarea + 1 semana que no y poner que no hubo
-
+--> Esta semana se entregó la tarea 4 donde aprendí a utilizar colab para llevar a cabo gráficas de excedentes.
+Por otro lado, partimos la tarea 5, la cual me enseñó los fundamentos básicos de la macroeconomía, además de 
+entender y saber diferenciar y reconocer las diferentes variables macroeconómicas que se ven en el día a día. 
 
 ¿Qué debo ser capaz de hacer para mostrar que domino los conceptos?
---> Conceptos si o si relacionados con el tema 
-
-
-
-
-
-
-
-
-
+--> Para mostrar que domino conceptos, debo ser capaz de definir los conceptos de impuesto, inflación,
+PIB, PIB real y nominal, inversión, riesgo, exportaciones, desempleo, deflactor, IPC y tasa de interés.
